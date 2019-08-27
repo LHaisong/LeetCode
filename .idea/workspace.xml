@@ -1,79 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38888adb-15dd-4cca-9431-67e6b3583a0e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/array/Find1NoDuplicateEle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/array/Find2SmallestElements.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/array/MergeSortArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/array/ReorderNegaPosiNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/stack/BracketMatching.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/leetcode/stack/SortStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/list/MergeOrderedList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/list/MergeOrderedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/list/OverturnList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/list/OverturnList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/list/Sum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/operate_system/PageFIFO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/operate_system/PageLRU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/queue/ImplementStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/queue/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/stack/CalculatePostFix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/stack/CompareBackspace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/stack/EvalRPN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/stack/Find132Pattern.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/stack/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/stack/SimplifyPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/stack/StringReplace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_12PrintMaxDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_13DeleteListNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_13DeleteListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_14OddEvenArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_15BackKlListNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_15BackKlListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_16ReverseNode$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_16ReverseNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_17MergeSortList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_17MergeSortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_18SubTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_18SubTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_19MirriorBinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_19MirriorBinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_20PrintMatrixClockWise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_21MatrixBinarySearchTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_22FindSumPath$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_22FindSumPath.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_23CopyComplexList$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_23CopyComplexList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_24BinarySearchTreeToQueue$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_24BinarySearchTreeToQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_25StringPerm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_26OverHalfNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_JumpFloor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_MatrixCover.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_NumberOf1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_five.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_four$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_four.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_six.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_three.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Offer_two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/swordtooffer/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/tree/BinaryTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/prac/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/list/CalculateMultiplyingCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/list/Maze.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/list/ScaleChange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/list/Shopping.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/list/SingTeam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/list/StringCounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/list/first.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lintcode/META-INF/lintcode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/lintcode/com/prac/dynamic/LongestIncrSeq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lintcode/com/prac/dynamic/LongestIncrSeq.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prac/array/Find1NoDuplicateEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prac/array/Find1NoDuplicateEle.java" afterDir="false" />
+    <list default="true" id="38888adb-15dd-4cca-9431-67e6b3583a0e" name="Default" comment="优化求数组中只出现一次的数字">
+      <change beforePath="$PROJECT_DIR$/out/production/lintcode/com/prac/array/Find1NoDuplicateEle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lintcode/com/prac/array/Find1NoDuplicateEle.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/prac/array/Find1NoDuplicateEle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+            <state relative-caret-position="264">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -332,7 +261,7 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../halo" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -634,12 +563,20 @@
       <workItem from="1560416633433" duration="1875000" />
       <workItem from="1560471590832" duration="4887000" />
       <workItem from="1566829929527" duration="757000" />
-      <workItem from="1566867173440" duration="2920000" />
+      <workItem from="1566867173440" duration="3317000" />
     </task>
+    <task id="LOCAL-00001" summary="优化求数组中只出现一次的数字">
+      <created>1566870534737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566870534737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390471000" />
+    <option name="totallyTimeSpent" value="390868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -681,6 +618,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="优化求数组中只出现一次的数字" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化求数组中只出现一次的数字" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/prac/swordtooffer/Offer_27MinKNum.java">
@@ -1087,8 +1028,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/prac/array/Find1NoDuplicateEle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        <state relative-caret-position="264">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
