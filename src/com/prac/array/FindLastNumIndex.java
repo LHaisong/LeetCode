@@ -29,10 +29,8 @@ public class FindLastNumIndex {
                     }
                     list.remove(begin);
                     begin--;
-                    System.out.println(list);
                 } else {
                     list.remove(begin);
-                    System.out.println(list+"here");
                     begin--;
                 }
             }
