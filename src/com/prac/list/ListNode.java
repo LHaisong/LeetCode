@@ -6,15 +6,6 @@ public class ListNode {
     ListNode next;
     public ListNode(int val){
         this.val=val;
-    }
-    public void addNode(int val) {
-        ListNode listNode = new ListNode(val);
-        if (head == null) {
-            head = listNode;
-            last = listNode;
-            return;
-        }
-        last.next = listNode;
-        last = listNode;
+        next = null;
     }
 }
