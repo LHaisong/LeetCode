@@ -7,24 +7,19 @@ import java.util.Map;
  * 判断链表是否存在环
  */
 public class Cycle {
-    public boolean hasCycle(ListNode head) {
-        boolean hasCycle=false;
-        if(head==null){
-            throw new IllegalArgumentException("链表为null");
+    public static boolean hasCycle(ListNode head) {
+        if(head == null || head.next == null){
+            return false;
         }
-        ListNode next,cHead=head;
-        int pos=-1,cPos=-1;
-        Map<ListNode,ListNode>nodeMap=new HashMap<>();
-        while ((next=cHead.next)!=null){
-            if(nodeMap.containsValue(next)||(next.next!=null&&next.next==head)){
-                cPos++;
-                hasCycle=true;
-            }else {
-                nodeMap.put(head,next);
+        ListNode fast=head,slow=head;
+        while (fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){
+                return true;
             }
-            cHead=next;
         }
-        return pos == cPos;
+        return false;
     }
     public static void main(String[]args) throws Exception {
         ListNode node=new ListNode();
@@ -36,6 +31,10 @@ public class Cycle {
         ListNode node1=node.get(2);
         ListNode node2=node.get(4);
         node.setNext(node2,node1);
-        node.print(node.head);
+        if(hasCycle(node.head)){
+            System.out.println("存在环");
+        }else {
+            System.out.println("不存在环");
+        }
     }
 }
