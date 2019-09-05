@@ -21,7 +21,8 @@ public class Offer_two {
 	}
 	public static void main(String[]args){
 		String src="we are happy";
-		//src=src.replace(" ","%20");
+		src=src.replace(" ","");
+		System.out.println(src);
 		try {
 			System.out.println(solution(src));
 		} catch (Exception e) {

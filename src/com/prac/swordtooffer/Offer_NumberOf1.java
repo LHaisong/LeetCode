@@ -5,7 +5,7 @@ package com.prac.swordtooffer;
  */
 public class Offer_NumberOf1 {
 	public static void main(String[]args){
-		int n=0x80000000;
+		int n=8;
 	    System.out.println(solution(n));
 	}
 
