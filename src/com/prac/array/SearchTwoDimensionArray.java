@@ -1,7 +1,7 @@
 package com.prac.array;
 
 public class SearchTwoDimensionArray {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         int[][] arr = {
                 {1,  4,  7,  11, 15},
                 {2,  5,  8,  12, 19},
@@ -9,7 +9,7 @@ public class SearchTwoDimensionArray {
                 {10, 13, 14, 17, 24},
                 {18, 21, 23, 26, 30}
         };
-        int tar=13;
+        int tar=35;
         searchResult(arr,tar);
     }
 
@@ -19,12 +19,16 @@ public class SearchTwoDimensionArray {
      * @param arr
      * @param tar
      */
-    private static void searchResult(int[][] arr, int tar) {
+    private static void searchResult(int[][] arr, int tar) throws Exception {
+        if(arr==null||arr.length ==0){
+            throw new Exception("输入参数错误");
+        }
         int rLen=arr.length,cLen=arr[0].length;
         int x=0,y=cLen-1;
         while (x<rLen&&y>=0){
             if(arr[x][y]==tar){
                 System.out.println(tar + " x:"+x+" y:"+y);
+                return;
             }
             if(arr [x] [y]>tar){
                 y--;
@@ -32,5 +36,6 @@ public class SearchTwoDimensionArray {
                 x++;
             }
         }
+        System.out.println(tar + "不存在");
     }
 }
